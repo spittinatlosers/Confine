@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bundle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundle/src/test/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hocon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hocon/src/test/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json/src/test/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/properties/src/test/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/toml/src/test/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yaml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yaml/src/test/java" charset="UTF-8" />
+  </component>
+</project>
